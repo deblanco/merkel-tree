@@ -6,7 +6,7 @@ Test cases:
 
 - From a list of block transactions, someone could rebuild the `transactionsRoot`
 - Proof a transaction is included in the `transactionsRoot`.
-- Generate a Tree of batches of blocks and test again the previous scenarios (replicating some of the zk-rollups that some L2 blockchains are using currently)
+- Generate a Tree of batches of blocks and test that transactions are inside (replicating some of the zk-rollups that some L2 blockchains are using currently)
 
 Check `test/` folder.
 
